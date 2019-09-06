@@ -30,6 +30,9 @@
     },
     "android": {
       "package": "com.sauban.colorgridapp"
-    }
-  }
+    },
+    "entryPoint": "node_modules/expo/AppEntry.js"
+  },
+  "displayName": "ColorGrid",
+  "name": "ColorGrid"
 }
